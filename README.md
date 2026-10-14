@@ -9,8 +9,8 @@ This marketplace has one plugin, **LA Lobbying Reports** (`mlo-reports`). It dra
 
 ## Install in Claude (claude.ai, desktop and Cowork)
 
-1. Open **Customize → Plugins → Add → Add marketplace** and enter `aandclabs/mlo-reports-marketplace`.
-2. Find **LA Lobbying Reports** in the marketplace and install it.
+1. Open **Customize → Plugins → Add → Add marketplace**, choose **Add from a repository**, enter `aandclabs/mlo-reports-marketplace` and click **Sync**.
+2. Find **LA Lobbying Reports** among the marketplace's plugins and install it.
 3. Open the plugin's **Connectors** tab and click **Connect** on `mlo-reports`.
 4. Sign in with your approved Google account. On the "Connect to LA Lobbying Reports" page, check that it says Claude and returns to claude.ai, then choose **Allow**.
 
