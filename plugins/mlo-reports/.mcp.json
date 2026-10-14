@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "mlo-reports": {
+      "type": "http",
+      "url": "https://app.aandclabs.com/api/mcp"
+    }
+  }
+}

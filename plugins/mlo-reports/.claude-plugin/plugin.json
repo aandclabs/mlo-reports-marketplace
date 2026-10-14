@@ -1,0 +1,7 @@
+{
+  "name": "mlo-reports",
+  "displayName": "LA Lobbying Reports",
+  "version": "0.2.0",
+  "description": "Drafts the LA City Lobbying Firm Quarterly Report (Form 34) from your Google Calendar and Gmail, and saves it for review and approval.",
+  "author": { "name": "A&C Labs" }
+}
